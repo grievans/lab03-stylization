@@ -67,10 +67,13 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SHADOWS_SOFT: 1
+    - _Stripe_Max: -1
+    - _Stripe_Min: -1
+    - _Stripe_Threshold: 0
     - _Threshold: 0.1
     - _Threshold_2: 0.75
     m_Colors:
     - _Highlight: {r: 0.9960785, g: 0.9960785, b: 0.9960785, a: 0}
-    - _Midtone: {r: 0.6039216, g: 0.627451, b: 0.7019608, a: 0}
+    - _Midtone: {r: 0.9960785, g: 0.9960785, b: 0.9960785, a: 0}
     - _Shadow: {r: 0.34117648, g: 0.37254903, b: 0.46274513, a: 0}
   m_BuildTextureStacks: []

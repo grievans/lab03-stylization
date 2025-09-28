@@ -67,6 +67,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SHADOWS_SOFT: 1
+    - _Stripe_Max: 0.999
+    - _Stripe_Min: 0.95
+    - _Stripe_Threshold: 0.999
     - _Threshold: 0.6
     - _Threshold_2: 0.9
     m_Colors:
