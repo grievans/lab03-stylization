@@ -5,7 +5,7 @@
 ![](Screenshot3.png)
 For the third one, I tried to tweak the lighting (and also how my shader was set up) some to get it as close to the image shown below as possible, though I eventually gave up on getting any closer. I didn't deliberately do the extra credit but I did involve some smoothing in the regions for the midtone vs. midtone w/ shadow lines vs. full shadow in trying to add sufficient control to mimic the apparent behavior in the original image.
 
-# Lab ~05~ _02_ - Stylization!
+# Lab ~05~ _03_ - Stylization!
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
 
 ## Introduction
